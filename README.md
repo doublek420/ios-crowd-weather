@@ -4,4 +4,5 @@ A social, local, mobile, crowdsourced weather app that's also a quick-start on h
 
 ![](ios-q.gif)
 
-MIT License
+
+[MIT License](http://firebase.mit-license.org/)
